@@ -5,11 +5,11 @@
 
 |Sr no.|Name||
 |-|-|-|
-|1|Sudeep Shukla| Team Leader|
+|1|Sudeep Shukla| Member|
 |2|Ayush J Pawar|Member|
 |3|Ananthakrishnan Nair RS|Member|
 |4|ROHIT RAJENDRA PAWAR|Member|
-|5|Shrey Gupta|Member|
+|5|Shrey Gupta|Team Leader|
 
 
 
