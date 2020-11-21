@@ -12,3 +12,7 @@
 ## Topics you need to prepare 
 
 ### Time and Space Complexity Analysis
+    • Best, Average, and Worst-case Analysis
+    • Big O notation
+    • Theta and Omega Notation
+    • Space Complexity 
