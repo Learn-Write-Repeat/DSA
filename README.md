@@ -49,5 +49,6 @@ Contribution in Data Structure &amp; Algorithm under DevIncept 30-DAYS CONTRIBUT
     • Depth-First Search: Inorder, Preorder, PostOrder Traversal in BST
     • Breadth-First Search
     • Side View of BST
+    • Check if a given binary tree is a binary search tree
 
 
