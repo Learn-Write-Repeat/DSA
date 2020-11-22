@@ -6,7 +6,8 @@
 - For rest of the elements, pick them in pairs and compare their maximum and minimum with max and min respectively. 
 
 input :
-![input info](./input.png)
+[input info](./input.png)
+<img src="markdownmonstericon.png" alternate="input">
 output :
-![output info](./output.png)
 
+<img src="markdownmonstericon.png" alternate="input">
