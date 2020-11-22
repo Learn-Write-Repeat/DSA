@@ -1,5 +1,11 @@
 # Maximum and minimum of an array using minimum number of comparisons
- - First of all, Since we need to return multiple values ( maximum and minimum) ,  I have used structures.
+ - I have used structures.
  - I have created a structure named **Pair** (which contains min and max). 
  - Here I have used a method called **Comparison in Pairs** ie,
  
+If n is odd then initialize min and max as first element. 
+If n is even then initialize min and max as minimum and maximum of the first two elements respectively. 
+For rest of the elements, pick them in pairs and compare their 
+maximum and minimum with max and min respectively. 
+
+filter_none
