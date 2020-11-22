@@ -5,4 +5,8 @@
  - If n is even then initialize min and max as minimum and maximum of the first two elements respectively. 
 - For rest of the elements, pick them in pairs and compare their maximum and minimum with max and min respectively. 
 
+input :
+![input info](input.png)
+output :
+![output info](output.png)
 
