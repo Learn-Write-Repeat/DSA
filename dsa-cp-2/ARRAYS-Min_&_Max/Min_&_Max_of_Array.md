@@ -136,10 +136,7 @@ int main()
 
 Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
 
-######<connect with me/>
-<a href="https://twitter.com/">
-    <img align="left" alt="AK | Twitter" width="40px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
-  </a>
- <a href="https://in.linkedin.com/in/Ananthakrishnan-Nair-RS">
-    <img align="left" alt="AK | Linkedin" width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
-  </a>
+###### connect with me
+[Github](https://github.com/akrish4) 
+[Linkedin](https://in.linkedin.com/in/Ananthakrishnan-Nair-RS")
+
