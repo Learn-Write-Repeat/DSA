@@ -10,4 +10,4 @@ input :
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/input.PNG" alternate="input">
 output :
 
-<img src="markdownmonstericon.png" alternate="input">
+<img src="" alternate="input">
