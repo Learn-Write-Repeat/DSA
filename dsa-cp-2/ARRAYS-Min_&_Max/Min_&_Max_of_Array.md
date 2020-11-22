@@ -135,7 +135,8 @@ int main()
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
 
 Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
-###### <connect with me/>
+
+######<connect with me/>
 <a href="https://twitter.com/">
     <img align="left" alt="AK | Twitter" width="40px" src="https://image.flaticon.com/icons/svg/174/174876.svg" />
   </a>
