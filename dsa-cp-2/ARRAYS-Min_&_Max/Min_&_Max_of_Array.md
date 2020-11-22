@@ -5,9 +5,9 @@
  - If n is even then initialize min and max as minimum and maximum of the first two elements respectively. 
 - For rest of the elements, pick them in pairs and compare their maximum and minimum with max and min respectively. 
 
-input :
-[input info](./input.png)
+## input :
+
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/input.PNG" alternate="input">
-output :
+## output :
 
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
