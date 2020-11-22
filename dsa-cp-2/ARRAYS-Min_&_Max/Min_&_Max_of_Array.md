@@ -134,13 +134,17 @@ int main()
 
 ## Output :
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
+
 # Time Complexity: O(n)
+
 ```
     If n is odd:    3*(n-1)/2  
        If n is even:   1 Initial comparison for initializing min and max, 
                            and 3(n-2)/2 comparisons for rest of the elements  
                       =  1 + 3*(n-2)/2 = 3n/2 -2
  ```
+ 
+ 
 Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with Ananthakrishnan  🧑✌
 [Github](https://github.com/akrish4) 
