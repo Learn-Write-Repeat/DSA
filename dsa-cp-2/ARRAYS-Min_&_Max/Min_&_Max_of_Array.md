@@ -1,9 +1,9 @@
 # Maximum and minimum of an array using minimum number of comparisons✨
 
- - Here I have created a structure named **Pair** (which contains min and max) and  ***arr*** is the array elements  and ***n*** is the size of array.I have used a method called **Comparison in Pairs**  ie,
- - If n is odd then initialize min and max as first element. 
- - If n is even then initialize min and max as minimum and maximum of the first two elements respectively. 
-- For rest of the elements, pick them in pairs and compare their maximum and minimum with max and min respectively.
+- Here I have created a structure named **Pair** (which contains min and max) and  ***arr*** is the array elements  and ***n*** is the size of array.I have used a method called **Comparison in Pairs**  ie,
+- If n is odd then initialize min and max as first element. 
+- If n is even then initialize min and max as minimum and maximum of the first two elements respectively. 
+- For rest of the elements, pick them in pairs and compare their maximum and minimum with max and min respectively. 
 # Code ✍
 ```cpp
 // C++ program of above implementation
@@ -131,9 +131,16 @@ int main()
 # Output Images 💻 
 ## Input :
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/input.PNG" alternate="input">
+
 ## Output :
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
-
+# Time Complexity: O(n)
+```
+    If n is odd:    3*(n-1)/2  
+       If n is even:   1 Initial comparison for initializing min and max, 
+                           and 3(n-2)/2 comparisons for rest of the elements  
+                      =  1 + 3*(n-2)/2 = 3n/2 -2
+ ```
 Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with Ananthakrishnan  🧑✌
 [Github](https://github.com/akrish4) 
