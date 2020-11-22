@@ -96,9 +96,9 @@ int main()
 
 	Pair minmax = getMinMax(arr, arr_size);
 
-	cout << "nMinimum element is "
+	cout << "Minimum element is "
 		<< minmax.min << endl;
-	cout << "nMaximum element is "
+	cout << "Maximum element is "
 		<< minmax.max;
 
 	return 0;
