@@ -114,19 +114,23 @@ int main()
 ```
 
 
-# Output Images 
-## Input :
-<img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/input.PNG" alternate="input">
-## Output :
-<img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
 
 
 
 
 # Analysis
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image1.PNG" alternate="input">
-# Pictorial Representaion 
+
+# Aproach 
 ## If the size of the array is odd (n=odd)
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image2.PNG" alternate="input">
+
 ## If the size of the array is even (n=even)
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image3.PNG" alternate="input">
+
+# Output Images 
+## Input :
+<img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/input.PNG" alternate="input">
+## Output :
+<img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
+
