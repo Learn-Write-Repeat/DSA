@@ -122,10 +122,10 @@ int main()
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image1.PNG" alternate="input">
 
 # Aproach & Example  
-## If the size of the array is odd (n=odd)👇
+## If the size of the array is even (n=even)👇
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image2.PNG" alternate="input">
 
-## If the size of the array is even (n=even)👇
+## If the size of the array is odd (n=odd)👇
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/image3.PNG" alternate="input">
 
 # Output Images 💻 
