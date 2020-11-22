@@ -1,4 +1,4 @@
-# Maximum and minimum of an array using minimum number of comparisons✨😊
+# Maximum and minimum of an array using minimum number of comparisons✨
 
  - Here I have created a structure named **Pair** (which contains min and max) and  ***arr*** is the array elements  and ***n*** is the size of array.I have used a method called **Comparison in Pairs**  ie,
  - If n is odd then initialize min and max as first element. 
@@ -134,4 +134,4 @@ int main()
 ## Output :
 <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/ARRAYS-Min_%26_Max/output.PNG" alternate="input">
 
-Contributed by [Ananthakrishnan](www.github.com/akrish4) , If you find it helpful , don't forget to drop a like 💖
+Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
