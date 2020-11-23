@@ -1,7 +1,7 @@
 # How to do algorithm analysis?
 >Before going to case analysis let's revise linear search, As I am going to explain Case analysis using a linear search algorithm.
 ## What is a linear search?
-Linear search is a simple searching algorithm that searches for an element of a list in sequential order. We start at one end and check every element until the desired elements in found.
+Linear search is a simple searching algorithm that searches for an element of a list in sequential order. We start at one end and check every element until the desired elements is found.
 
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif" alt="Linear Search Gif" style="max-width:100%;"></a>
 
