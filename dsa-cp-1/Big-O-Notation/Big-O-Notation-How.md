@@ -78,7 +78,7 @@ In the above code, there are two loops one is single for loop  and other is nest
 
 ### Common Time Complexities
 ```
-▶️  **O(1)**  The running time of a constant-time algorithm does not depend on the input size. A typical 
+▶️  <strong> O(1) </strong>  The running time of a constant-time algorithm does not depend on the input size. A typical 
 constant-time algorithm is a direct formula that calculates the answer.
 
 ▶️  **O(logn)** A logarithmic algorithm often halves the input size at each step. The running time of such 
