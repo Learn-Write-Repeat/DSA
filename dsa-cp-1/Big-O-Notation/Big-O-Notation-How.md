@@ -1,4 +1,4 @@
-### Big O notation examples
+### Big O notation examples ✌️
 ---
 
 ```c++
