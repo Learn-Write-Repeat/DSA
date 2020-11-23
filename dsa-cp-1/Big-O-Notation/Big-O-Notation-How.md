@@ -117,7 +117,7 @@ input elements
 
 
 
-#### Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️.
+<h4 align="center"> Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️. </h4>
 #### Connect with me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/kunal-mahato-6ab76318b/)  
 
 
