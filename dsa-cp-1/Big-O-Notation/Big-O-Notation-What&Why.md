@@ -1,4 +1,4 @@
-### Big O Notation ✌️
+### Big O Notation 🙇🏻
 <pre>
 ▶️ It's hard to pin down the exact runtime of an algorithm. It depends on the speed of the processor,
 what else the computer is running, etc. To standardize talking about how much time and how much space 
