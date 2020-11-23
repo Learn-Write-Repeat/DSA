@@ -29,3 +29,17 @@ print(x, "is present at index",
  2. Average case
  3. Best case
  
+ ## Worst Case Analysis:
+ 
+For linear search, the worst case happens when we search for an element which is not present in the array. From the above example if the 'X' is not present in the array then search() function will compare it with each and every element in the array one by one. Therefore the worst case time complexity of linear search would be O(n). 
+ 
+ ## Average Case Analysis:
+ 
+ The average case analysis we take the average over all inputs(of the given size). For linear search we will assume that all cases are uniformly distributed (includes the key(x) not present in the array). We add all the cases and divide the sum by (n+1).
+
+```
+Average Case Time =  
+analysis1
+= analysis2
+= Θ(n) 
+```
