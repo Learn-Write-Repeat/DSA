@@ -1,7 +1,7 @@
 # How to do algorithm analysis?
->Before going to case analysis let's revise linear search, As I am going to explain Case analysis using linear search algorithm.
-## What is linear search?
-Linear search is a simple searchning algorithm that seaches for an element of a list in sequential order. We start at one end and check each and every elements until te desired elements in found.
+>Before going to case analysis let's revise linear search, As I am going to explain Case analysis using a linear search algorithm.
+## What is a linear search?
+Linear search is a simple searching algorithm that searches for an element of a list in sequential order. We start at one end and check every element until the desired elements in found.
 
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.tutorialspoint.com/data_structures_algorithms/images/linear_search.gif" alt="Linear Search Gif" style="max-width:100%;"></a>
 
@@ -19,7 +19,7 @@ def search(arr, x):
 arr = [1, 10, 30, 15] 
 x = 30
 print(x, "is present at index", 
-      search(arr, x)) 
+      search(arr, x))
 ```
 ><b>Output : 30 is present at index 2</b>
  <hr><br>
@@ -31,11 +31,11 @@ print(x, "is present at index",
  
  ## Worst Case Analysis:
  
-For linear search, the worst case happens when we search for an element which is not present in the array. From the above example if the 'X' is not present in the array then search() function will compare it with each and every element in the array one by one. Therefore the worst case time complexity of linear search would be O(n). 
+For linear search, the worst case happens when we search for an element which is not present in the array. From the above example if the 'X' is not present in the array then search() function will compare it with every element in the array one by one. Therefore the worst case time complexity of linear search would be O(n). 
  
  ## Average Case Analysis:
  
- The average case analysis we take the average over all inputs(of the given size). For linear search we will assume that all cases are uniformly distributed (includes the key(x) not present in the array). We add all the cases and divide the sum by (n+1).
+ The average case analysis we take the average over all inputs(of the given size). For linear search, we will assume that all cases are uniformly distributed (includes the key(x) not present in the array). We add all the cases and divide the sum by (n+1).
 
 
 Average Case Time =  
@@ -43,10 +43,10 @@ Average Case Time =
 = <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/analysis2.png" alt="Linear Search Gif" style="max-width:100%;"></a> 
 = Θ(n) 
 
-This analysis may not be possible for every algorithm. So, rarely we do it. Mostly for average case the time complexity we get is similar to worst case.
+This analysis may not be possible for every algorithm. So, rarely we do it. Mostly for the average case, the time complexity we get is similar to the worst case.
 
 ## Best Case Analysis:
-In linear search, the best case occurs when the key(x) is present at the first index. The no of operations in the best case is constant(1) it doesn't depend on size of the array. So the time complexity in the best case would be Θ(1)
+In a linear search, the best case occurs when the key(x) is present at the first index. The no of operations in the best case is constant(1) it doesn't depend on the size of the array. So the time complexity in the best case would be Θ(1)
 
 ## Bonus
 ### Here's the list of other algorithms
