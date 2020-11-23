@@ -1,4 +1,4 @@
-### Big O notation examples ✌️
+### Big O notation examples 🙇🏻
 ---
 
 ```c++
@@ -76,32 +76,32 @@ In the above code, there are two loops one is single for loop  and other is nest
 
 
 
-### Common Time Complexities
+### Common Time Complexities ⌛
 ```
-▶️  <strong> O(1) </strong>  The running time of a constant-time algorithm does not depend on the input size. A typical 
+▶️  O(1) The running time of a constant-time algorithm does not depend on the input size. A typical 
 constant-time algorithm is a direct formula that calculates the answer.
 
-▶️  **O(logn)** A logarithmic algorithm often halves the input size at each step. The running time of such 
+▶️  O(logn) A logarithmic algorithm often halves the input size at each step. The running time of such 
 an algorithm is logarithmic,because log2n equals the number of times n must be divided by 2 to get 1.
 
-▶️  **O(√n)** A square root algorithm is slower than O(logn) but faster than O(n). A special property of 
+▶️  O(√n) A square root algorithm is slower than O(logn) but faster than O(n). A special property of 
 square roots is that √n = n / √n, so n elements can be divided into O(√n) blocks of O(√n) elements.
 
-▶️  **O(n)** A linear algorithm goes through the input a constant number of times. This is often the best 
+▶️  O(n) A linear algorithm goes through the input a constant number of times. This is often the best 
 possible time complexity, because it is usually necessary to access each input element at least once before 
 reporting the answer.
 
-▶️  **O(nlogn)** This time complexity often indicates that the algorithm sorts the input, because the time 
+▶️  O(nlogn) This time complexity often indicates that the algorithm sorts the input, because the time 
 complexity of efficient sorting algorithms is O(nlogn). Another possibility is that the algorithm uses a data
 structure where each operation takes O(logn) time
 
-▶️  **O(n^2)** A quadratic algorithm often contains two nested loops. It is possible to go through all pairs 
+▶️  O(n^2) A quadratic algorithm often contains two nested loops. It is possible to go through all pairs 
 of the input elements in O(n^2) time
 
-▶️  **O(2^n )** This time complexity often indicates that the algorithm iterates through all subsets of the
+▶️  O(2^n ) This time complexity often indicates that the algorithm iterates through all subsets of the
 input elements
 
-▶️  **O(n!)** This time complexity often indicates that the algorithm iterates through all permutations of the 
+▶️  O(n!) This time complexity often indicates that the algorithm iterates through all permutations of the 
 input elements
 
 ```
