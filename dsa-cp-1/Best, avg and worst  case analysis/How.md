@@ -53,3 +53,12 @@ In a linear search, the best case occurs when the key(x) is present at the first
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.researchgate.net/profile/Jehad_Hammad3/publication/274640372/figure/tbl1/AS:391828730859523@1470430657128/Summary-of-the-best-case-average-case-and-worst-case2.png" alt="Linear Search Gif" style="max-width:100%;"></a>
 
 Contributed by <a href="https://github.com/ShyamKumar1">Shyam Kumar</a> With 💜. 
+
+## Reach me on
+<p align='center'>
+  <a href="https://www.linkedin.com/in/shyam-kumar-9b9841157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_smiling_storm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shyam.ceolife@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/shyam.george15/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
