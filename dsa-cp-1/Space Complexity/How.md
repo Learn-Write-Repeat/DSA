@@ -28,7 +28,8 @@ int main()\
 #### Output:
 <img src="https://github.com/NihalSuresh007/DSA/blob/main/dsa-cp-1/Space%20Complexity/output2.png" alternate="input">\
 **Explanation:** In the above-given code, the array consists of n integer elements. So, the space occupied by the array is 4 * n. Also we have integer variables such as n, i and sum. Assuming 4 bytes for each variable, the total space occupied by the program is 4n + 12 bytes. Since the highest order of n in the equation 4n + 12 is n, **so the space complexity is O(n) or linear.**\
-Contributed by [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
+
+***Contributed by*** [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	
 [Linkedin](https://www.linkedin.com/in/nihal-s-b0535a191)
 
