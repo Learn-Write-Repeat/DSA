@@ -37,12 +37,12 @@ For linear search, the worst case happens when we search for an element which is
  
  The average case analysis we take the average over all inputs(of the given size). For linear search we will assume that all cases are uniformly distributed (includes the key(x) not present in the array). We add all the cases and divide the sum by (n+1).
 
-```
+
 Average Case Time =  
-analysis1
-= analysis2
+<a target="_blank" rel="noopener noreferrer" href="#"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/analysis1.png" alt="Linear Search Gif" style="max-width:100%;"></a>
+= <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/analysis2.png" alt="Linear Search Gif" style="max-width:100%;"></a> 
 = Θ(n) 
-```
+
 This analysis may not be possible for every algorithm. So, rarely we do it. Mostly for average case the time complexity we get is similar to worst case.
 
 ## Best Case Analysis:
