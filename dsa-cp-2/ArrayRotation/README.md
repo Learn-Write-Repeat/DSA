@@ -208,10 +208,10 @@ class ArrayRotation {
 ## Output Images
 
 Output with positive K
-![Output with positive K](C:\Users\icon\Pictures\Screenshots\positiveK.png)
+![Output with positive K](https://github.com/RohitsSkill/DSA/blob/main/dsa-cp-2/ArrayRotation/positiveK.png)
 
 Output with negative K
-![Output with negative K](C:\Users\icon\Pictures\Screenshots\NegativeK.png)
+![Output with negative K](https://github.com/RohitsSkill/DSA/blob/main/dsa-cp-2/ArrayRotation/negativeK.png)
 
 ## Created By
 
