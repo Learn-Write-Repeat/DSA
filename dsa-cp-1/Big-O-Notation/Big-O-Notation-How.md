@@ -117,7 +117,7 @@ input elements
 
 
 
-<h4 align="center" style="background: #000;"> Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️. </h4>
+<h3 align="center"> Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️. </h3>
  
 
 
