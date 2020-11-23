@@ -16,3 +16,5 @@ we use the size of the input, which we call "n".
 
 ▶️ When we are calculating the big O complexity of some algorithm, we should not consider the constants
 </pre>
+
+<h3 align="center"> Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️. </h3>
