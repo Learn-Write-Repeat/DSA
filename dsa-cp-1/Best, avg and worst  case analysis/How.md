@@ -48,7 +48,7 @@ This analysis may not be possible for every algorithm. So, rarely we do it. Most
 ## Best Case Analysis:
 In a linear search, the best case occurs when the key(x) is present at the first index. The no of operations in the best case is constant(1) it doesn't depend on the size of the array. So the time complexity in the best case would be Θ(1)
 
-## Bonus
+> ## Bonus
 ### Here's the list of other algorithms
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.researchgate.net/profile/Jehad_Hammad3/publication/274640372/figure/tbl1/AS:391828730859523@1470430657128/Summary-of-the-best-case-average-case-and-worst-case2.png" alt="Linear Search Gif" style="max-width:100%;"></a>
 
