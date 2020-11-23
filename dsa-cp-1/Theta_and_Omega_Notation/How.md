@@ -48,4 +48,5 @@ Here, two cases can be possible:
 - If so, then the time complexity of this linear search program would be: Θ(n/2) ≈ Θ(n)
 - Here n would be the index of the target element.
 
+<h4 align="center"> Contributed by <a href="https://github.com/yashtikakakkar">Yashtika Kakkar</a> With ❤️ </h3>
 
