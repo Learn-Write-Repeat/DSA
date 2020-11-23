@@ -60,7 +60,7 @@ Step 3 : Store second part of array
 Step 4 : Add first part of array
 
     Result Array = {3,4,5,6,1,2}
-    This is left Rotated Array. :smile:
+    This is left Rotated Array. 
 
 ## Method to Right Rotate Array
 
@@ -99,7 +99,7 @@ Step 3 : Store second part of array
 Step 4 : Add first part of array
 
     Result Array = {5,6,1,2,3,4}
-    This is left Rotated Array. :smile:
+    This is left Rotated Array. 
 
 ## Code in JAVA to rotate Array Elements
 
