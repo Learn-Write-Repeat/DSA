@@ -1,0 +1,2 @@
+# Why do we need analysis of algorithm?
+<p>Analysis of an algorithm is important in practice because the accidental or unintentional use of an inefficient algorithm can affect the system performance. In time-sensitive applications, an algorithm that takes too long to run could give its result outdated or useless. To check the characteristics of the algorithm in order to know wheater the algorithm is suitable for the application or not we do an analysis of an algorithm.</p>
