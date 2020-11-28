@@ -52,7 +52,7 @@ In a linear search, the best case occurs when the key(x) is present at the first
 ### Here's the list of other algorithms
 <a target="_blank" rel="noopener noreferrer" href="#"><img src="https://www.researchgate.net/profile/Jehad_Hammad3/publication/274640372/figure/tbl1/AS:391828730859523@1470430657128/Summary-of-the-best-case-average-case-and-worst-case2.png" alt="Linear Search Gif" style="max-width:100%;"></a>
 
-## Contributed by <a href="https://github.com/ShyamKumar1">Shyam Kumar</a> With 💜. 
+<h4 align="center">Contributed by <a href="https://github.com/ShyamKumar1">Shyam Kumar</a> With 💜.</h4> 
 
 ## Reach me on
 <p align='center'>
