@@ -9,13 +9,13 @@ bool checkAnagram(string s1, string s2)
     int count = 0;
 
     // Take sum of all characters of first String
-    for (int i = 0; i < s1.size(); i++)
+    for (int i = 0; i < s1.length(); i++)
     {
         count += s1[i];
     }
 
     // Subtract the Value of all the characters of second string
-    for (int i = 0; i < s2.size(); i++)
+    for (int i = 0; i < s2.length(); i++)
     {
         count -= s2[i];
     }
