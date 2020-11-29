@@ -1,6 +1,7 @@
 ### Check whether two strings are anagram of each other 🙇
 
 ▶️ Lets first understand what are anagrams. An anagram is a word or phrase formed by rearranging the letters in another word or phrase, such as spar, formed from rasp.
+
 ▶️ In this problem we will check whether the strings which are given is anagram of each other or not.
 
 ```
