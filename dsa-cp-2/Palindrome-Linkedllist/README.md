@@ -10,7 +10,8 @@
  ## Algorithm❤👇
    - First, traverse the whole linked list, storing the value of each element in a stack at each step.
    - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
-
+    
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
 ## Implementation💻✍
 ```cpp
 #include<bits/stdc++.h> 
