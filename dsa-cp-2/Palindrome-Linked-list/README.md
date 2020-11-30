@@ -21,13 +21,13 @@
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image3.PNG">
   
   ### 4.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image4.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image4.PNG">
   
   ### 5.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image5.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image5.PNG">
   
  ### 6.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image6.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image6.PNG">
   
  ### 7.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image7.PNG">
