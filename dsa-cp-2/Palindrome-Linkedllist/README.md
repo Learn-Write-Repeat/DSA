@@ -1,4 +1,4 @@
-#✨CHECKING IF A LINKED LIST IS A PALINDROME 💖
+# ✨CHECKING IF A LINKED LIST IS A PALINDROME 💖
 
  ## What is a Linked List?🧐👈
  - A linked list is a data structure made up of a chain of nodes connected by links. Each node contains a value and has a next pointer to the next node in the chain. The head pointer points to the first node and the last element points to null.
