@@ -1,17 +1,17 @@
-# CHECKING IF A LINKED LIST IS A PALINDROME
-
- ## What is a Linked List?
+# ✨CHECKING IF A LINKED LIST IS A PALINDROME 💖
+🧒👨‍
+ ## What is a Linked List?😊✌
  - A linked list is a data structure made up of a chain of nodes connected by links. Each node contains a value and has a next pointer to the next node in the chain. The head pointer points to the first node and the last element points to null.
- ## What is a palindrome?
+ ## What is a palindrome?👇
  - A palindrome is a word, phrase, or sequence that reads the same backward as forward.
- ## Is a Linked List a palindrome?
+ ## Is a Linked List a palindrome? 🤔
    - A number is a **palindrome** if it reads the same forwards as it does backward. For example, the number **12333211233321** is a palindrome.
    - Linked lists can also be palindromes if they have the same order of elements when traversed forwards and backward.
- ## Algorithm
+ ## Algorithm❤👇
    - First, traverse the whole linked list, storing the value of each element in a stack at each step.
    - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
 
-## Implementation
+## Implementation💻✍
 ```cpp
 #include<bits/stdc++.h> 
 using namespace std;  
