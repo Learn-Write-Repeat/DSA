@@ -37,6 +37,10 @@
   
  ### 9.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
+    
+ ### 10.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
+  
   
   
   
