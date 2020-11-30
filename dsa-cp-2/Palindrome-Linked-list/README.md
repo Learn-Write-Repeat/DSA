@@ -1,6 +1,6 @@
 # ✨CHECKING IF A LINKED LIST IS A PALINDROME 💖
-🧒👨‍
- ## What is a Linked List?😊✌
+
+ ## What is a Linked List?🧐👈
  - A linked list is a data structure made up of a chain of nodes connected by links. Each node contains a value and has a next pointer to the next node in the chain. The head pointer points to the first node and the last element points to null.
  ## What is a palindrome?👇
  - A palindrome is a word, phrase, or sequence that reads the same backward as forward.
@@ -38,9 +38,8 @@
  ### 9.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
     
- ### 10.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
-  
+ 
+
   
   
   
@@ -116,3 +115,15 @@ int main(){
     
 } 
 ```
+## Output💻
+   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
+ 
+#### The time complexity is O(n)👍
+
+---
+
+
+## Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊✌ , If you find it helpful , don't forget to drop a like 💖
+## 🧒Social Media Handles👉   [Github](https://github.com/akrish4) & [Linkedin](https://in.linkedin.com/in/Ananthakrishnan-Nair-RS")
+
+
