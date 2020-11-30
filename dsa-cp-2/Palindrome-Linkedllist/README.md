@@ -1,1 +1,1 @@
-# Checking if a linked list is a palindrome
+# CHECKING IF A LINKED LIST IS A PALINDROME
