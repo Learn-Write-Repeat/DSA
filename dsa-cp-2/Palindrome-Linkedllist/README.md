@@ -13,6 +13,7 @@
     
   ### 1.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
+  
   ### 2.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image2.PNG">
   
