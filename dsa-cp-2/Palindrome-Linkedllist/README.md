@@ -10,7 +10,36 @@
  ## Algorithm❤👇
    - First, traverse the whole linked list, storing the value of each element in a stack at each step.
    - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
-
+    
+  ### 1.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
+  
+  ### 2.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image2.PNG">
+  
+  ### 3.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image3.PNG">
+  
+  ### 4.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image4.PNG">
+  
+  ### 5.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image5.PNG">
+  
+ ### 6.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image6.PNG">
+  
+ ### 7.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image7.PNG">
+  
+ ### 8.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image8.PNG">
+  
+ ### 9.
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
+  
+  
+  
 ## Implementation💻✍
 ```cpp
 #include<bits/stdc++.h> 
