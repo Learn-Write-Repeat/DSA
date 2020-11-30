@@ -12,13 +12,13 @@
    - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
     
   ### 1.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image1.PNG">
   
   ### 2.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image2.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image2.PNG">
   
   ### 3.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image3.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image3.PNG">
   
   ### 4.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image4.PNG">
@@ -30,13 +30,13 @@
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image6.PNG">
   
  ### 7.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image7.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image7.PNG">
   
  ### 8.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image8.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image8.PNG">
   
  ### 9.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image9.PNG">
     
  
 
@@ -116,7 +116,7 @@ int main(){
 } 
 ```
 ## Output💻
-   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
+   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linked-list/images/image10.PNG">
  
 #### The time complexity is O(n)👍
 
