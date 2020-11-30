@@ -123,7 +123,7 @@ int main(){
 ---
 
 
-## Contributed by [Ananthakrishnan]✌(https://github.com/akrish4) 😊 , If you find it helpful , don't forget to drop a like 💖
+## Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊✌ , If you find it helpful , don't forget to drop a like 💖
 ## 🧒Social Media Handles👉   [Github](https://github.com/akrish4) & [Linkedin](https://in.linkedin.com/in/Ananthakrishnan-Nair-RS")
 
 
