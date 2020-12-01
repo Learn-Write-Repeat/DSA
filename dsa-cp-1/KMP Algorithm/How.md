@@ -15,8 +15,7 @@ One naive way to solve this problem would be to compare each character of W with
 <br>
 <br>
 
-```
-python
+``` python
 # Here is the working code of the naive approach.
 def bruteSearch(W, T):
     # edge case check
