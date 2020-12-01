@@ -2,6 +2,8 @@
 
 For example, consider the below lexicographical permutations of the string "CBA" and find it's rank.
 
+<img src="Permutations.png">
+
 ```
 ABC ACB BAC BCA CAB CBA
 Lexicographic rank of "CBA" is 6
@@ -51,7 +53,7 @@ int main()
 ```
 
 > <b>Lexicographic rank of "CBA" is 6</b>
-<img src="Permutations.png">
+
 
 <hr>
 
