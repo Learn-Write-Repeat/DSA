@@ -49,7 +49,7 @@ int main()\
 	return 0;\
 }
 #### Output:
-<img src= alternate="input">\
+<img src="https://github.com/NihalSuresh007/DSA/blob/main/dsa-cp-1/Leftmost%20Character/output.png" alternate="input">\
 
 ***Contributed by*** [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	
