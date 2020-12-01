@@ -1,6 +1,6 @@
-#How to find the leftmost character in a string?
+# How to find the leftmost character in a string?
 
-###Algorithm to find the first non-repeating character in a string:
+### Algorithm to find the first non-repeating character in a string:
 * Input the string from the user.
 * Start traversing the string using two loops.
 * Use the first loop to scan the characters of the string one by one.
@@ -8,7 +8,7 @@
 * If it is not occurring, print that character.
 * Else, continue traversing.
 
-##Program:
+## Program:
 #include<stdlib.h>\
 #include<stdio.h>\
 #define NO_OF_CHARS 256\
