@@ -5,9 +5,15 @@ The approach I follow is I start with the basics then keep building on it till w
 To Find the occurrences of a word W within a main text T.
 
 One naive way to solve this problem would be to compare each character of W with T. Every time there is a mismatch, we shift W to the right by 1, then we start comparing again. Let’s do it with an example:
-<b>T: DoYouSeeADogHere</b> (it will be a case insensitive search for all examples)
+</br>
+<br>
+<b>T: DoYouSeeADogHere</b> (it will be a case insensitive search for all examples)</br>
 <b>W: dog</b>
+<br>
+<br>
 <img src="https://miro.medium.com/max/875/1*YPBKZC3TV5lVL-0ANBZUJg.jpeg">
+<br>
+<br>
 
 ```
 python
@@ -48,23 +54,33 @@ def bruteSearch(W, T):
 ```
 
 Time complexity of this naive approach is O(mn), where m and n are length of the word W and the text T respectively. Let’s see how can we make it better. Take another wacky example with all unique characters in W.
-<b>T: duceDuck
+<br>
+<br>
+<b>T: duceDuck<br>
 W: duck</b>
-
+<br>
+<br>
 <img src="https://miro.medium.com/max/553/1*U9I78us1B5kMQCr1sHAaew.jpeg">
-
+<br>
+<br>
 As you can see in the above image, there is a mismatch at index 3. According to naive approach next step would be to shift W by 1. Since all letters in W are different, we can actually shift W by the index where mismatch occurred (3 in this case). We can say for sure there won’t be any match in between. I would recommend to try with some other similar example and check for yourself.
 The idea is to find out how much to shift the word W when there is a mismatch. So far we have optimised the approach only for a special case where all characters in W are unique. Let’s take another bizarre example. This one is gonna be little tricky so brace yourself.
-
-<b>T: deadElephant
+<br>
+<br>
+<b>T: deadElephant<br>
 W: deadEye</b>
-
+<br>
+<br>
 <img src="https://miro.medium.com/max/875/1*c5bGdmM0OzXfM5nYInni1Q.jpeg">
-
+<br>
+<br>
 Make sure you understand what green cells convey. I will be using a lot of them. In the above image the green cells in the left substring is equal to the green cells in the right substring. It is actually the largest prefix which is also equal to the suffix of the substring till index 4 of the word “deadeye”. Assume for now we have found it somehow, we will work on finding out largest prefix(green cells) later. Now let’s see how it works by taking an abstract example.
+<br>
+<br>
 
 <img src="https://miro.medium.com/max/875/1*YCUDhBDIc1F02UeYsi3-Ug.jpeg">
-
+<br>
+<br>
 str1 = str2 (green cells) and str2 = str3. When there is a mismatch after str2, we can directly shift the word till after str1 as you can see in the image. <b>Green cells actually tell us the index from where it should start comparing next, if there is a mismatch.</b>
 
 I suppose you now understand if we find out green cells for every prefix of the word W, we can skip few unnecessary matches and increase the efficiency of our algorithm. This is actually the idea behind knuth-Morris-Pratt(kmp) algorithm.
@@ -73,11 +89,16 @@ I suppose you now understand if we find out green cells for every prefix of the 
 We will be using aux[] array to store the index. Unlike Naive algorithm, where we shift the word W by one and compare all characters at each shift, we use a value from aux[] to decide the next characters to be matched. No need to match characters that we know will match anyway. Let’s take yet another weird example.
 
 <b>W: acabacacd</b>
+<br>
+<br>
 
 <img src="https://miro.medium.com/max/875/1*jNXqOPTGDlyNXovP476s0A.jpeg">
+<br>
+<br>
 
 m and `i` define the state of our algorithm and signify that prefix of the word W before m is equal to the suffix for the substring till i-1 i.e `W[0…m-1] = W[i-m…i-1]`. For the above image state, 2(value of `m`) is stored in the aux[] array for the substring till index 4(`i-1`).
-
+<br>
+<br>
 ``` python
 def createAux(W):
     # initializing the array aux with 0's
@@ -112,6 +133,8 @@ def createAux(W):
 ```
 
 Following will be the aux array for the word <b>acabacacd</b>
+<br>
+<br>
 
 <img src="https://miro.medium.com/max/875/1*isAIN7UtgL1O1iXxKQ18eQ.jpeg">
 
@@ -153,9 +176,11 @@ while j < len(T):
             # continue as if no match was found at this point.
             i = aux[i-1]
 ```
-
+<br>
+<br>
 Below is the snapshot of above code at some intermediate running state.
-
+<br>
+<br>
 <img src="https://miro.medium.com/max/875/1*MAZ_8XUWqokEkvmoUC0Wag.jpeg">
 
 <hr>
