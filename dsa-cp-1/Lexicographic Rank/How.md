@@ -2,7 +2,7 @@
 
 For example, consider the below lexicographical permutations of the string "CBA" and find it's rank.
 
-<img src="Permutations.png">
+<img src="Permutations.png" align="center">
 
 ```
 ABC ACB BAC BCA CAB CBA
