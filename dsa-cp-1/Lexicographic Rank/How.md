@@ -51,6 +51,7 @@ int main()
 ```
 
 > <b>Lexicographic rank of "CBA" is 6</b>
+<img src="Permutations.png">
 
 <hr>
 
