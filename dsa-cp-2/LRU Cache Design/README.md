@@ -42,4 +42,4 @@ To watch the code [Click]() here .
 
 Rohit Pawar
 
-ping me at [LinkedIN]()
+ping me at [LinkedIN](https://www.linkedin.com/in/rohit-pawar-1a18481b2)
