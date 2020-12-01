@@ -52,7 +52,7 @@ int main()
 
 > <b>Lexicographic rank of "CBA" is 6</b>
 
-
+<hr>
 
 ### Contributed by <a href="https://github.com/ShyamKumar1">Shyam Kumar</a> With 💜. 
 
