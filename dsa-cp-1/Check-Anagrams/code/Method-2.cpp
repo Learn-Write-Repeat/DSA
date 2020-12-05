@@ -6,9 +6,7 @@ bool checkAnagram(string s1, string s2)
     // If length of the str are not same then they are not anagrams
     if (s1.length() != s2.length())
         return false;
-
-    int count = 0;
-    
+	
     // Map to store the count of each character
     map<char, int> m;
 	
