@@ -38,10 +38,9 @@ bool checkAnagram(string s1, string s2)
 ```
 2️⃣ Method
 
-▶️ Create a count variable and  initialize it with 0
-▶️ Then take the sum of all the characters in string one and store it count variable
-▶️ Then subtract the chracters of string two from the count variable 
-▶️ If the count becomes 0 then the two strings anagram of each other return true else return false
+▶️ Create a hashmap maping char to int
+▶️ Store the characters count of string 1 in the hashmap
+▶️ Now subtract the character count of string 2 from hashmap, If the count of the character becomes less than 0 that means that character occurring more number of times in string 2 therefore the two string are not anagrams of each other
 ▶️ Time complexity : O(n) 
 ```
 ```c++
