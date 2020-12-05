@@ -13,22 +13,22 @@ bool checkAnagram(string s1, string s2)
     map<char, int> m;
 	
     // Insert string 1 character into map
-	for (auto i : s1) {
-		m[i]++;
-	}
+    for (auto i : s1) {
+	m[i]++;
+    }
 	
     // Subtract the string 2 characters from the map
     // If the count become less than 0 that means 
     // that character is occurring more number of times in string 2
     // which means they are not anagrams
-	for (auto i : s2) {
-		m[i]--;
-		if(m[i] < 0) {
-			return false;
-		}
+    for (auto i : s2) {
+        m[i]--;
+	if(m[i] < 0) {
+	    return false;
 	}
+    }
 	
-	return true;
+    return true;
 }
 
 int main()
