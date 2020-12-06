@@ -1,4 +1,4 @@
-# ✨Merge Sort 💖
+# MERGE SORT ✨💖
 
  ## What is Sorting?🧐👈
  - Sorting is a process of ordering or placing a list of elements from a collection in some kind of order. ... Sorting can be done in ascending and descending order. It arranges the data in a sequence which makes searching easier.
@@ -155,13 +155,9 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Mayank Tyagi
-
 ```
 ## Output💻
    <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image10.PNG">
- 
-#### The time complexity is O(n)👍
 
 ---
 
