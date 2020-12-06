@@ -49,7 +49,7 @@ If r > l
    ```
 
  
-
+<img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image8.PNG">
   
   
   
