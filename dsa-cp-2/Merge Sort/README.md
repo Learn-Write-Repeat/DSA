@@ -1,7 +1,7 @@
 # ✨Merge Sort 💖
 
  ## What is Sorting?🧐👈
- - A linked list is a data structure made up of a chain of nodes connected by links. Each node contains a value and has a next pointer to the next node in the chain. The head pointer points to the first node and the last element points to null.
+ - Sorting is a process of ordering or placing a list of elements from a collection in some kind of order. ... Sorting can be done in ascending and descending order. It arranges the data in a sequence which makes searching easier.
  ## What is a palindrome?👇
  - A palindrome is a word, phrase, or sequence that reads the same backward as forward.
  ## Is a Linked List a palindrome? 🤔
