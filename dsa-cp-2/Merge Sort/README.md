@@ -114,7 +114,7 @@ int main(){
 } 
 ```
 ## Output💻
-   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
+   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image10.PNG">
  
 #### The time complexity is O(n)👍
 
