@@ -1,4 +1,4 @@
-# MERGE SORT ✨💖
+# ✨MERGE SORT 💖
 
  ## What is Sorting?🧐👈
  - Sorting is a process of ordering or placing a list of elements from a collection in some kind of order. ... Sorting can be done in ascending and descending order. It arranges the data in a sequence which makes searching easier.
@@ -8,32 +8,30 @@
  
  ## How Merge Sort Works?
     
-  ### 1.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
+  ### 1. To understand merge sort, we take an unsorted array as the following −
+
+
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image1.PNG">
   
   ### 2.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image2.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image2.PNG">
   
   ### 3.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image3.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image3.PNG">
   
   ### 4.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image4.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image4.PNG">
   
   ### 5.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image5.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image5.PNG">
   
  ### 6.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image6.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image6.PNG">
   
  ### 7.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image7.PNG">
+  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image7.PNG">
   
- ### 8.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image8.PNG">
-  
- ### 9.
-  <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
+
     
  
  ## Algorithm❤👇
