@@ -1,13 +1,12 @@
-# ✨Merge Sort 💖
+# MERGE SORT ✨💖
 
  ## What is Sorting?🧐👈
  - Sorting is a process of ordering or placing a list of elements from a collection in some kind of order. ... Sorting can be done in ascending and descending order. It arranges the data in a sequence which makes searching easier.
  ## What is Merge Sort?😁
-  -  merge sort is an efficient, general-purpose, comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output. Merge sort is a divide and conquer algorithm that was invented by John von Neumann in 1945.
-
- ## Algorithm❤👇
-   - First, traverse the whole linked list, storing the value of each element in a stack at each step.
-   - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
+ - Merge Sort is a Divide and Conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
+ - The merge() function is used for merging two halves. The merge(arr, l, m, r) is a key process that assumes that arr[l..m] and arr[m+1..r] are sorted and merges the two sorted sub-arrays into one.
+ 
+ ## How Merge Sort Works?
     
   ### 1.
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image1.PNG">
@@ -37,86 +36,128 @@
   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image9.PNG">
     
  
+ ## Algorithm❤👇
+  ```
+  MergeSort(arr[], l,  r)
+If r > l
+     1. Find the middle point to divide the array into two halves:  
+             middle m = (l+r)/2
+     2. Call mergeSort for first half:   
+             Call mergeSort(arr, l, m)
+     3. Call mergeSort for second half:
+             Call mergeSort(arr, m+1, r)
+     4. Merge the two halves sorted in step 2 and 3:
+             Call merge(arr, l, m, r)
+   ```
+
+ 
 
   
   
   
 ## Implementation💻✍
 ```cpp
-#include<bits/stdc++.h> 
-using namespace std;  
-  
-class Node { 
-public: 
-  int data;
+// C++ program for Merge Sort
+#include <iostream>
+using namespace std;
 
-  Node(int d){ 
-    data = d; 
-  } 
-  Node *ptr; 
-}; 
-  
-bool isPalindrome(Node* head){ 
-  // This pointer will allow the first traversal
-  // of the linked list
-  Node* next= head;   
-  // Declare a stack  
-  stack <int> s; 
+// Merges two subarrays of arr[].
+// First subarray is arr[l..m]
+// Second subarray is arr[m+1..r]
+void merge(int arr[], int l, int m, int r)
+{
+	int n1 = m - l + 1;
+	int n2 = r - m;
 
-  // Traverse the linked list and add its elements
-  // to the stack
-  while(next != NULL){ 
-    s.push(next->data); 
-    next = next->ptr; 
-  } 
+	// Create temp arrays
+	int L[n1], R[n2];
 
-  // Iterate the linked list again and  
-  // check by each element with the stack 
-  while(head != NULL ){      
-    int i=s.top(); 
+	// Copy data to temp arrays L[] and R[]
+	for (int i = 0; i < n1; i++)
+		L[i] = arr[l + i];
+	for (int j = 0; j < n2; j++)
+		R[j] = arr[m + 1 + j];
 
-    if(head -> data != i){ 
-      return false; 
-    }
-    // Move to the next element in stack and the list 
-    s.pop(); 
-    head=head->ptr; 
-  } 
+	// Merge the temp arrays back into arr[l..r]
 
-return true; 
-} 
-  
-// Driver Code  
-int main(){ 
+	// Initial index of first subarray
+	int i = 0;
 
-  Node one =  Node(1); 
-  Node two = Node(3); 
-  Node three = Node(5); 
-  Node four = Node(3); 
-  Node five = Node(1); 
+	// Initial index of second subarray
+	int j = 0;
 
-  // Initialize the pointers of the Linked List
-  five.ptr = NULL; 
-  one.ptr = &two; 
-  two.ptr = &three; 
-  three.ptr = &four; 
-  four.ptr = &five; 
-  Node* temp = &one; 
+	// Initial index of merged subarray
+	int k = l;
 
-    
-  // Call function with head of the linked list
-  int result = isPalindrome(&one); 
-  if(result == 1) 
-    cout<<"Linked list is a palindrome\n"; 
-  else
-    cout<<"Linked list is NOT a palindrome\n"; 
-    
-} 
+	while (i < n1 && j < n2) {
+		if (L[i] <= R[j]) {
+			arr[k] = L[i];
+			i++;
+		}
+		else {
+			arr[k] = R[j];
+			j++;
+		}
+		k++;
+	}
+
+	// Copy the remaining elements of
+	// L[], if there are any
+	while (i < n1) {
+		arr[k] = L[i];
+		i++;
+		k++;
+	}
+
+	// Copy the remaining elements of
+	// R[], if there are any
+	while (j < n2) {
+		arr[k] = R[j];
+		j++;
+		k++;
+	}
+}
+
+// l is for left index and r is
+// right index of the sub-array
+// of arr to be sorted */
+void mergeSort(int arr[],int l,int r){
+	if(l>=r){
+		return;//returns recursively
+	}
+	int m = (l+r-1)/2;
+	mergeSort(arr,l,m);
+	mergeSort(arr,m+1,r);
+	merge(arr,l,m,r);
+}
+
+// UTILITY FUNCTIONS
+// Function to print an array
+void printArray(int A[], int size)
+{
+	for (int i = 0; i < size; i++)
+		cout << A[i] << " ";
+}
+
+// Driver code
+int main()
+{
+	int arr[] = { 12, 11, 13, 5, 6, 7 };
+	int arr_size = sizeof(arr) / sizeof(arr[0]);
+
+	cout << "Given array is \n";
+	printArray(arr, arr_size);
+
+	mergeSort(arr, 0, arr_size - 1);
+
+	cout << "\nSorted array is \n";
+	printArray(arr, arr_size);
+	return 0;
+}
+
 ```
 ## Output💻
-   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Palindrome-Linkedllist/images/image10.PNG">
- 
-#### The time complexity is O(n)👍
+   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Merge Sort/images/image10.PNG">
 
 ---
 
