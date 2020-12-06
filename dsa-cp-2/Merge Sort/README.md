@@ -2,11 +2,9 @@
 
  ## What is Sorting?🧐👈
  - Sorting is a process of ordering or placing a list of elements from a collection in some kind of order. ... Sorting can be done in ascending and descending order. It arranges the data in a sequence which makes searching easier.
- ## What is a palindrome?👇
- - A palindrome is a word, phrase, or sequence that reads the same backward as forward.
- ## Is a Linked List a palindrome? 🤔
-   - A number is a **palindrome** if it reads the same forwards as it does backward. For example, the number **12333211233321** is a palindrome.
-   - Linked lists can also be palindromes if they have the same order of elements when traversed forwards and backward.
+ ## What is Merge Sort?😁
+  -  merge sort is an efficient, general-purpose, comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output. Merge sort is a divide and conquer algorithm that was invented by John von Neumann in 1945.
+
  ## Algorithm❤👇
    - First, traverse the whole linked list, storing the value of each element in a stack at each step.
    - Traverse the whole linked list again, this time popping out elements from the stack and comparing them with the elements in the linked list. If all the elements are the same, then the linked list is a palindrome.
@@ -125,5 +123,6 @@ int main(){
 
 ## Contributed by [Ananthakrishnan](https://github.com/akrish4) 😊✌ , If you find it helpful , don't forget to drop a like 💖
 ## 🧒Social Media Handles👉   [Github](https://github.com/akrish4) & [Linkedin](https://in.linkedin.com/in/Ananthakrishnan-Nair-RS")
+
 
 
