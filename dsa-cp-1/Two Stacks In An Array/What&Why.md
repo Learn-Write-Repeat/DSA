@@ -4,7 +4,7 @@ Program to implement **two stacks in an array**. We need to create a data struct
 ***pop1()–>pops an element from first stack and return the popped element***, ***pop2()–>pops an element from second stack and return the popped element***.
 Implementation of twoStack should be space efficient. 
 ## Why Two Stacks In An Array?
-When a stack is created using single array, we can not able to store large amount of data, thus this problem is rectified using more than one stack in the same array of sufficient array. 
+***When a stack is created using single array, we can not able to store large amount of data, thus this problem is rectified using more than one stack in the same array of sufficient array.*** 
 
 Contributed by [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	
