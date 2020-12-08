@@ -1,4 +1,4 @@
-<h1 align="center">FIFO Applictaions</h1>
+<h1 align="center">FIFO Applications</h1>
 <b> What is FIFO?</b>
 <p></p>
 <p><b>FIFO</b> stands for <b>First In, First Out</b>. It is a way of processing and retriving the data. In FIFO system the first element is processed or servered first and the element which comes next to first element will be processed next.</p>
