@@ -1,13 +1,12 @@
 <p><b>First in, First out</b> system of approach is used in :-</p>
 
 1. Data Structures:
-         There are data structures like queue and other variants of queue where we use FIFO approach of processing the data.
-<br>
-2. Disk Scheduling Algorithms:
-        Disk controllers use FIFo as a disk scheduling algorithm for ordering dist I/O Requests.
-<br>
-3. Communications and Networking:
-        FIFO system is used in communication network bridges, switches and routers in computer networks to hold data packets enroute to their next destination.
+There are data structures like queue and other variants of queue where we use FIFO approach of processing the data.
+2. Disk Scheduling Algorithms:<br/>
+Disk controllers use FIFo as a disk scheduling algorithm for ordering dist I/O Requests.
+<br/>
+3. Communications and Networking:<br/>
+FIFO system is used in communication network bridges, switches and routers in computer networks to hold data packets enroute to their next destination.
 
 Program example foe FIFO implementation in Queue:
 
