@@ -1,6 +1,6 @@
 <p><b>First in, First out</b> system of approach is used in :-</p>
 
-1. Data Structures:
+1. Data Structures:<br/>
 There are data structures like queue and other variants of queue where we use FIFO approach of processing the data.
 2. Disk Scheduling Algorithms:<br/>
 Disk controllers use FIFo as a disk scheduling algorithm for ordering dist I/O Requests.
