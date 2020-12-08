@@ -2,10 +2,10 @@
 ### Method 1 - Divide the space in two halves:
 A simple way to implement two stacks is to divide the array in two halves and assign the half half space to two stacks, i.e., use arr[0] to arr[n/2] for stack1, and arr[(n/2) + 1] to arr[n-1] for stack2 where arr[] is the array to be used to implement two stacks and size of array be n.
 #### Program:
-#include <iostream> \ 
-#include <stdlib.h> \   
-using namespace std; \ 
-class twoStacks {\ 
+#include <iostream>/
+#include <stdlib.h>/   
+using namespace std;/ 
+class twoStacks {/ 
     int* arr;\ 
     int size;\ 
     int top1, top2;\ 
