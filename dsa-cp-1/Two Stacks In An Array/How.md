@@ -85,7 +85,7 @@ int main()
 }   
 ##### Output :
 <img src="" alternate="input">  
-**Explanation:** The problem with this method is inefficient use of array space. A stack push operation may result in stack overflow even if there is space available in arr[]. For example, say the array size is 6 and we push 3 elements to stack1 and do not push anything to second stack2. When we push 4th element to stack1, there will be overflow even if we have space for 3 more elements in array.
+**Explanation:** 
 **Complexity Analysis:**
 ***Time Complexity:***
 Push operation : O(1)
@@ -178,9 +178,6 @@ int main()
 Push operation : O(1)
 Pop operation : O(1)
 Auxiliary Space :O(N).
-##### Output:
-<img src="https://github.com/NihalSuresh007/DSA/blob/main/dsa-cp-1/Space%20Complexity/output2.png" alternate="input">\
-**Explanation:** In the above-given code, the array consists of n integer elements. So, the space occupied by the array is 4 * n. Also we have integer variables such as n, i and sum. Assuming 4 bytes for each variable, the total space occupied by the program is 4n + 12 bytes. Since the highest order of n in the equation 4n + 12 is n, **so the space complexity is O(n) or linear.**\
 
 ***Contributed by*** [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	
