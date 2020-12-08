@@ -1,11 +1,11 @@
 <p><b>Last in, First out</b> system of approach is used in :-</p>
 
 
-1. Data Structures:
+1. Data Structures:<br>
          There are data structures like stack and other variants of stack where we use LIFO system for processing the data.
 <br>
-1. Extracting Latest Information:
-        Computers use LIFO when data needs to be extracted from an array or data buffer. To get the most recent information entered, the LIFO system is used.
+2. Extracting Latest Information:<br>
+         Computers use LIFO when data needs to be extracted from an array or data buffer. To get the most recent information entered, the LIFO system is used.
 <br>
 
 Program example foe LIFO implementation in Stacks:
