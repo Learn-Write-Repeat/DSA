@@ -12,7 +12,11 @@ bool checkAnagram(string s1, string s2)
 	
     // Insert string 1 character into map
     for (auto i : s1) {
+<<<<<<< HEAD
 		m[i]++;
+=======
+	m[i]++;
+>>>>>>> 422a3da41f579236f41d6f781a5982b522b9858c
     }
 	
     // Subtract the string 2 characters from the map
@@ -21,9 +25,15 @@ bool checkAnagram(string s1, string s2)
     // which means they are not anagrams
     for (auto i : s2) {
         m[i]--;
+<<<<<<< HEAD
 		if(m[i] < 0) {
 	    	return false;
 		}
+=======
+	if(m[i] < 0) {
+	    return false;
+	}
+>>>>>>> 422a3da41f579236f41d6f781a5982b522b9858c
     }
 	
     return true;
