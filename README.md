@@ -42,8 +42,11 @@ Contribution in Data Structure &amp; Algorithm under DevIncept 30-DAYS CONTRIBUT
     • Count Distinct Elements
     • Union of two unsorted arrays
 # 9) Heap 
+    • What is heap? Difference between Min Heap and Max Heap
     • Insertion
-    • Heapify and Extract
+    • Update 
+    • Heapify 
+    • Extract Elements
 # 10) Binary Search Tree
     • Insertion, Deletion
     • Depth-First Search: Inorder, Preorder, PostOrder Traversal in BST
