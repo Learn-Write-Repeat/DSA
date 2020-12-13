@@ -2,7 +2,7 @@
 
 ## This time we are going to know little bit about "HEAP".
 
-## HEAP :worry: ,What is that ??
+## HEAP :worried: ,What is that ??
 
     It is the one type of data structure where we are going to build a tree with some restrictions.
     There are two types of restrictions
@@ -43,6 +43,11 @@
 
 ## Myself
 
-    I am [Rohit Pawar](https://www.linkedin.com/in/rohit-pawar-1a18481b2/)
+   I am Rohit Pawar
+   Want to know more about me, click below
+   
+   [LinkedIn](https://www.linkedin.com/in/rohit-pawar-1a18481b2/)
+   
+   [Github](https://github.com/RohitsSkill)
 
 # Thank you..
