@@ -1,11 +1,11 @@
 # How to implement Open Addressing?
 ### Program:
-#include<bits/stdc++.h>\ 
-using namespace std;\ 
-template<typename K, typename V>\   
-class HashNode\ 
-{\ 
-    public:\ 
+#include<bits/stdc++.h>   
+using namespace std;   
+template<typename K, typename V>     
+class HashNode   
+{   
+    public:   
     V value;\ 
     K key;\ 
     HashNode(K key, V value)\ 
