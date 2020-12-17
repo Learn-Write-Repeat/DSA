@@ -32,6 +32,7 @@ int main() {
     //Given arrays
     vector<int> arr1 = {4, 2, 3, 7, 2}, arr2 = {1, 3, 4, 3, 1, 10};
 
+    //Function Call
     printUnion(arr1, arr2);
 
     return 0;
