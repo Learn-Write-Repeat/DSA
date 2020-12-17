@@ -7,7 +7,7 @@
 ### Algorithm 🔰 
 ▶️ Create a hashmap mapping int to int <br>
 ▶️ Iterate over first array and insert the elements to map <br>
-▶️ Now, iterate over second array and insert the elements to map <br>
+▶️ Now, iterate over second array and again insert the elements to map <br>
 ▶️ Now, iterate over map and print the key values which will be the union of the arrays <br>
 ▶️ Time complexity : O(m+n) (where m is length of first array and n is length of second array)
 
