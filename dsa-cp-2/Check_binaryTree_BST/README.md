@@ -95,7 +95,7 @@ int main()
 
 ```
 ## Output💻
-   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/CHECK_BINARYTREE_BST/images/image1.PNG">
+   <img src="https://github.com/akrish4/DSA/blob/main/dsa-cp-2/Check_binaryTree_BST/images/image1.PNG">
 
 ---
 
