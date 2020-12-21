@@ -37,7 +37,7 @@
 ## Time Complexity
 
     We have to traverse all nodes present in tree so time complexity is nothing but number of nodes present in tree.
-    i.e. O(n) where n = number of nodesin tree.
+    i.e. O(n) where n = number of nodes in tree.
 
 ## Myself
 
