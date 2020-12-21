@@ -41,6 +41,6 @@
 
 ## Myself
 
-    I am [Rohit Pawar](https://github.com/RohitsSkill)
-    From Jawahar education Society, Institute of technology, Nasik, India.
-    You can also ping me at [LinkedIn](https://www.linkedin.com/in/rohit-pawar-1a18481b2/)
+I am [Rohit Pawar](https://github.com/RohitsSkill)
+From Jawahar education Society, Institute of technology, Nasik, India.
+I am Active on LinkedIn so You can also ping me at [LinkedIn](https://www.linkedin.com/in/rohit-pawar-1a18481b2/)
