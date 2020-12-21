@@ -8,7 +8,7 @@
 
 ```Given a Binary Heap and a new element to be added to this Heap. The task is to insert the new element to the Heap maintaining the properties of Heap.```
  
- ## Process of Insertion: Elements can be inserted to the heap following a similar approach as discussed above for deletion. The idea is to:
+## Process of Insertion: Elements can be inserted to the heap:
     
    - First increase the heap size by 1, so that it can store the new element.
    - Insert the new element at the end of the Heap.
@@ -16,7 +16,7 @@
 
     
  
- ## Illustration❤👇
+ ## Illustration❤👇(Max-Heap)
  ```
  Suppose the Heap is a `Max-Heap` as:
       10
