@@ -35,7 +35,7 @@ struct node* newNode(int data)
 }   
 int main()   
 {   
-  struct node *root = newNode(4);   
+  struct node \*root = newNode(4);   
   root->left        = newNode(2);   
   root->right       = newNode(5);   
   root->left->left  = newNode(1);   
@@ -47,6 +47,9 @@ int main()
   getchar();   
   return 0;   
 }     
+
+**Time Complexity:** O(n)
+**Auxiliary Space:** O(1) if Function Call Stack size is not considered, otherwise O(n)
 
 #### Output:
 <img src="" alternate="input">\
