@@ -48,11 +48,11 @@ int main()
   return 0;   
 }     
 
-**Time Complexity:** O(n)
-**Auxiliary Space:** O(1) if Function Call Stack size is not considered, otherwise O(n)
+**Time Complexity:** O(n)  
+**Auxiliary Space:** O(1) if Function Call Stack size is not considered, otherwise O(n)  
 
 #### Output:
-<img src="" alternate="input">\
+<img src="https://github.com/NihalSuresh007/DSA/blob/main/dsa-cp-1/CheckIfTreeIsBinary/output1.png" alternate="input">\
 
 ***Contributed by*** [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	
